@@ -41,13 +41,13 @@ This uses Ubuntu Linux image which is freely available and no license is require
 *	Azure Subscription with specified payment method or Azure credits
 ## Deployment Steps
 Build your Two-tier on-premises app simulation on Azure in a few simple steps:
-•	Launch the Template by click on Deploy to Azure button.
-•	Fill in all the required parameter values. Accept the terms and condition on click Purchase.
-•	Access the deployment job once it is successful. In deployment job output, you will find the Public IP Address of VMs which can be used connect to the VMs.
-•	Start the Nodejs (ToDo) application and launch the same in browser 
-•	Populate the application by entering some records 
-•	Open Mongo console and verify the database is successfully created.
-•	Follow the post deployment configuration document [here](https://raw.githubusercontent.com/SpektraSystems/2-Tier-nodejsapp-migration-to-containers-on-Azure/master/Two-tier%20Nodejs%20App%20migration%20on%20Azure%20Container%20v0.1.pdf) to learn about further configuration.
+*	Launch the Template by click on Deploy to Azure button.
+*	Fill in all the required parameter values. Accept the terms and condition on click Purchase.
+*	Access the deployment job once it is successful. In deployment job output, you will find the Public IP Address of VMs which can be used connect to the VMs.
+*	Start the Nodejs (ToDo) application and launch the same in browser 
+*	Populate the application by entering some records 
+*	Open Mongo console and verify the database is successfully created.
+*	Follow the post deployment configuration document [here](https://raw.githubusercontent.com/SpektraSystems/2-Tier-nodejsapp-migration-to-containers-on-Azure/master/Two-tier%20Nodejs%20App%20migration%20on%20Azure%20Container%20v0.1.pdf) to learn about further configuration.
 
 ## Deployment Time
 The deployment takes about 20 minutes to complete.
